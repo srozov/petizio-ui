@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Petition 1",
+      "description": "Do something",
+      "logo": "nologo",
+      "numberSignatures": "99999"
+    },
+    {
+      "id": 2,
+      "name": "Petition 2",
+      "description": "Do something",
+      "logo": "nologo",
+      "numberSignatures": "99999"
+    },
+    {
+      "id": 3,
+      "name": "Petition 3",
+      "description": "Do something",
+      "logo": "nologo",
+      "numberSignatures": "99999"
+    }
+
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
