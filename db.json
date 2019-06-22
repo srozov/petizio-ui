@@ -4,8 +4,15 @@
       "id": 1,
       "name": "Petition 1",
       "description": "Do something 234234",
-      "logo": "https://www.google.ch/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiv0prbsP3iAhXNLVAKHT8xC-UQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fbblott9%2Fi-need-attention-meme%2F&psig=AOvVaw0etf_4aMHoI3rd-od0D3la&ust=1561302907196467",
+      "logo": "https://i.pinimg.com/474x/8a/06/89/8a06899886ae96f6161ba85ba4bf3347.jpg",
       "numberSignatures": "99999"
+    },
+    {
+      "id": 2,
+      "name": "Petition 2",
+      "description": "Do something more",
+      "logo": "https://i.pinimg.com/474x/8a/06/89/8a06899886ae96f6161ba85ba4bf3347.jpg",
+      "numberSignatures": "999"
     }
   ],
   "profile": {
