@@ -2,15 +2,15 @@
   "petitions": [
     {
       "id": 1,
-      "name": "Petition 1",
-      "description": "Do something 234234",
-      "logo": "https://i.pinimg.com/474x/8a/06/89/8a06899886ae96f6161ba85ba4bf3347.jpg",
+      "name": "Bring more Blockchain Applications to the Swiss Government",
+      "description": "In the recent years the technology of Blockchain has evolved rapidly and becoming from just a promising technology to one that brings actual value. We (the voters) want, that the Swiss Government adopts more Blockchain Applications in their ecosystem.",
+      "logo": "https://bitcoinist.com/wp-content/uploads/2018/09/shutterstock_56887675-e1537643630413.jpg",
       "numberSignatures": "99999"
     },
     {
       "id": 2,
-      "name": "Petition 2",
-      "description": "Do something more",
+      "name": "Follow my instagram : 10_outof_10unicorns",
+      "description": "Do it plx",
       "logo": "https://i.pinimg.com/474x/8a/06/89/8a06899886ae96f6161ba85ba4bf3347.jpg",
       "numberSignatures": "999"
     }
