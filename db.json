@@ -2,17 +2,19 @@
   "petitions": [
     {
       "id": 1,
-      "name": "Bring more Blockchain Applications to the Swiss Government",
-      "description": "In the recent years the technology of Blockchain has evolved rapidly and becoming from just a promising technology to one that brings actual value. We (the voters) want, that the Swiss Government adopts more Blockchain Applications in their ecosystem.",
+      "name": "Bring more Blockchain Applications to the Switzerland",
+      "description1": "In the recent years the technology of Blockchain has evolved rapidly and becoming from just a promising technology to one that brings actual value. We (the voters) want, that the Swiss Government adopts more Blockchain Applications in their ecosystem.",
+      "description2": "Examples for the Blockchain adoption of public services are given by the Startup Procivis, which offers an entire ecosystem for public services. They include e-voting, e-ID’s and many more solutions. Another promising Start-Up is Petizio, which developed a system for petitions on the Blockchain, to make it immutable, safe and transparent. Current solutions can be manipulated by either the system provider or the actual voter.",
       "logo": "https://bitcoinist.com/wp-content/uploads/2018/09/shutterstock_56887675-e1537643630413.jpg",
-      "numberSignatures": "99999"
+      "numberSignatures": "73491"
     },
     {
       "id": 2,
-      "name": "Follow my instagram : 10_outof_10unicorns",
-      "description": "Do it plx",
-      "logo": "https://i.pinimg.com/474x/8a/06/89/8a06899886ae96f6161ba85ba4bf3347.jpg",
-      "numberSignatures": "999"
+      "name": "Promote Sustainable Agriculture",
+      "description1": "Adding plant-based protein options in public places will appeal to workers out for a quick lunch, families with health-conscious members out to dinner, children on field trips, and anyone looking for something different than the current menu. According to a recent survey, more than one-third of Swiss already buy meat substitutes for reasons that range from health to ethics! So why not make a meatless option available for everyone to enjoy? Healthy living should be about progress, not perfection, and this is an easy step that we should be taking.",
+      "description2": "My name is Sven Epiney. I'm a pro chef and the author of Eat what Cows eat. I've been fortunate enough to reach millions of people with a positive message, and with this petition I’m hoping to bring a positive change to Switzerland with a mainstream meatless option at Main Trainstations!", 
+      "logo": "https://3j551k2eo5512znc2g46kkjmwkf-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/09KWF03_017-1024x683.jpg",
+      "numberSignatures": "92343"
     }
   ],
   "profile": {
